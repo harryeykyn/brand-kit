@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Kit"
+  short_description: "Build organised client brand kits from a website"
+  default_prompt: "Use $brand-kit to research this brand website and create a PDF and organised client asset library."
