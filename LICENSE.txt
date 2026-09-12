@@ -1,0 +1,3 @@
+Permission is granted to use, copy, modify, distribute and share this skill's original instructions and helper code for personal or commercial purposes, with or without modification.
+
+The package is supplied as-is, without warranty. This permission does not grant rights to brand assets, fonts, photographs, copy, trademarks or other third-party materials collected when running the skill. Those remain subject to their respective rights and licences.
